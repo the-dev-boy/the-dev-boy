@@ -2,20 +2,15 @@
 
 # THE DEV BOY
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=building+systems.;running+simulations.;engineering+the+future.;computing+the+unknown.;currently+online." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1000&lines=BUILDING+SYSTEMS;RUNNING+SIMULATIONS;EXPLORING+UNKNOWN+VARIABLES;COMPUTING+THE+FUTURE;STATUS:+ONLINE" />
 
 <br>
 
-```txt
-╔══════════════════════════════════════════════╗
-║            SECURE NETWORK ONLINE            ║
-╠══════════════════════════════════════════════╣
-║ COMPUTATIONAL CLUSTER : ACTIVE              ║
-║ AI MODULE             : ENABLED             ║
-║ SYSTEM HEALTH         : NOMINAL             ║
-║ CLEARANCE LEVEL       : RESTRICTED          ║
-╚══════════════════════════════════════════════╝
-```
+<img width="650" src="https://raw.githubusercontent.com/the-dev-boy/the-dev-boy/main/assets/mission-control.gif"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=SECURE+NETWORK+ESTABLISHED;COMPUTATIONAL+CLUSTER+ACTIVE;RESEARCH+MODE+ENABLED;CLEARANCE+LEVEL:+RESTRICTED" />
 
 </div>
 
@@ -26,25 +21,25 @@
 ```txt
 Designation      : THE DEV BOY
 
-Classification   : Software Engineer
+Division         : Experimental Computing
+
+Classification   : Systems Builder
 
 Status           : ACTIVE
 
-Location         : UNDISCLOSED
-
 Mission          : Build Interesting Things
 
-Network          : STABLE
+Signal           : STABLE
 ```
 
 ---
 
-# RESEARCH INTERESTS
+# RESEARCH DOMAINS
 
 ```txt
 Artificial Intelligence
 
-Distributed Systems
+Distributed Computing
 
 Cybersecurity
 
@@ -56,7 +51,7 @@ Simulation Engineering
 
 Autonomous Systems
 
-Space Systems
+Space Technologies
 
 Computational Research
 
@@ -93,20 +88,12 @@ Advanced Software Architecture
 
 # ACTIVE OPERATIONS
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=FFD700&center=true&vCenter=true&width=900&lines=DISTRIBUTED+ARCHITECTURES;SIMULATION+SYSTEMS;AUTONOMOUS+WORKFLOWS;UNKNOWN+PROJECTS;RESEARCH+IN+PROGRESS" />
+
 ```txt
 [██████████████████░░]
 
-Distributed Architectures
-
-Simulation Systems
-
-Secure Infrastructure
-
-Autonomous Workflows
-
-Experimental Projects
-
-Unknown Objectives
+ACTIVE
 ```
 
 ---
@@ -142,7 +129,7 @@ while True:
 
     build()
 
-    test()
+    experiment()
 
     optimize()
 
@@ -189,47 +176,17 @@ SLEEP           ██░░░░░░░░░░░░░░
 
 ---
 
-# ACTIVE MODULES
-
-```txt
-AI
-
-SYSTEMS
-
-AUTOMATION
-
-SECURITY
-
-CLOUD
-
-ENGINEERING
-
-RESEARCH
-```
-
----
-
 # TRANSMISSION LOG
 
-```txt
-The universe runs on mathematics.
-
-Physics describes it.
-
-Computers simulate it.
-
-Software connects everything.
-
-Research continues.
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1000&lines=THE+UNIVERSE+RUNS+ON+MATHEMATICS;PHYSICS+DESCRIBES+IT;COMPUTERS+SIMULATE+IT;SOFTWARE+CONNECTS+EVERYTHING" />
 
 ---
 
 <div align="center">
 
-<img width="90" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg"/>
+<img width="100" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg"/>
 
-<br>
+<br><br>
 
 ```txt
 TRANSMISSION TERMINATED
