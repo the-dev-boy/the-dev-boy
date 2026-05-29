@@ -6,11 +6,15 @@
 
 <br>
 
-<img width="220" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
 ```txt
-Experimental Computing Division
-Signal Status : Stable
+╔══════════════════════════════════════════════╗
+║            SECURE NETWORK ONLINE            ║
+╠══════════════════════════════════════════════╣
+║ COMPUTATIONAL CLUSTER : ACTIVE              ║
+║ AI MODULE             : ENABLED             ║
+║ SYSTEM HEALTH         : NOMINAL             ║
+║ CLEARANCE LEVEL       : RESTRICTED          ║
+╚══════════════════════════════════════════════╝
 ```
 
 </div>
@@ -24,25 +28,39 @@ Designation      : THE DEV BOY
 
 Classification   : Software Engineer
 
-Status           : Active
+Status           : ACTIVE
+
+Location         : UNDISCLOSED
 
 Mission          : Build Interesting Things
+
+Network          : STABLE
 ```
 
 ---
 
-# AREAS OF INTEREST
+# RESEARCH INTERESTS
 
 ```txt
 Artificial Intelligence
+
 Distributed Systems
+
 Cybersecurity
+
 High Performance Computing
+
 Quantum Information Science
+
 Simulation Engineering
+
+Autonomous Systems
+
 Space Systems
-Autonomous Agents
+
 Computational Research
+
+Advanced Software Architecture
 ```
 
 ---
@@ -51,9 +69,85 @@ Computational Research
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,rust,nodejs,react,nextjs,django,mongodb,mysql,postgres,docker,kubernetes,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,rust,kotlin,bash" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,vite" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,dotnet" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,githubactions,git,github,vscode" />
 
 </div>
+
+---
+
+# ACTIVE OPERATIONS
+
+```txt
+[██████████████████░░]
+
+Distributed Architectures
+
+Simulation Systems
+
+Secure Infrastructure
+
+Autonomous Workflows
+
+Experimental Projects
+
+Unknown Objectives
+```
+
+---
+
+# TERMINAL
+
+```bash
+$ system-status
+
+ONLINE
+
+$ current-focus
+
+software systems
+
+$ research-mode
+
+enabled
+
+$ authorization
+
+granted
+```
+
+---
+
+# COMPUTATIONAL MODEL
+
+```python
+while True:
+
+    learn()
+
+    build()
+
+    test()
+
+    optimize()
+
+    repeat()
+```
 
 ---
 
@@ -69,6 +163,8 @@ Computational Research
 
 ---
 
+# COMPUTATIONAL ACTIVITY
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-dev-boy&theme=react-dark&hide_border=true&area=true"/>
@@ -77,20 +173,38 @@ Computational Research
 
 ---
 
-# TERMINAL
+# INFRASTRUCTURE STATUS
 
-```bash
-$ mission-status
+```txt
+CPU             ██████████████░░
 
-ACTIVE
+MEMORY          ███████████░░░░░
 
-$ current-focus
+NETWORK         ███████████████░
 
-software systems
+CURIOSITY       ████████████████
 
-$ research-mode
+SLEEP           ██░░░░░░░░░░░░░░
+```
 
-enabled
+---
+
+# ACTIVE MODULES
+
+```txt
+AI
+
+SYSTEMS
+
+AUTOMATION
+
+SECURITY
+
+CLOUD
+
+ENGINEERING
+
+RESEARCH
 ```
 
 ---
@@ -100,21 +214,29 @@ enabled
 ```txt
 The universe runs on mathematics.
 
+Physics describes it.
+
 Computers simulate it.
 
 Software connects everything.
+
+Research continues.
 ```
 
 ---
 
 <div align="center">
 
-<img width="120" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg"/>
+<img width="90" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg"/>
 
-<br><br>
+<br>
 
 ```txt
-END OF TRANSMISSION
+TRANSMISSION TERMINATED
+
+MISSION STATUS : ONGOING
+
+NEXT UPDATE : UNKNOWN
 ```
 
 <img src="https://komarev.com/ghpvc/?username=the-dev-boy&style=for-the-badge"/>
