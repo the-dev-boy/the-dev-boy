@@ -1,84 +1,135 @@
 <div align="center">
 
-<img width="100%" src="https://media.tenor.com/search/homelander-gif"/>
+<img width="100%" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
 
 # THE DEV BOY
 
-```txt
-Vought Certified Software Entity
-Threat Level: Unknown
-Production Status: Active
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=building+systems.;exploring+unknown+variables.;running+computational+experiments.;simulating+ideas.;currently+online." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=the+only+bug+is+everyone+else.;production+is+my+test+environment.;i+can+do+whatever+the+fuck+i+want.;currently+causing+merge+conflicts." />
+<br>
+
+```txt
+Experimental Computing Division
+Status: Active
+```
 
 </div>
 
 ---
 
-## personnel file
+# SYSTEM OVERVIEW
 
 ```txt
-name        : THE DEV BOY
-occupation  : software shenanigans
-alignment   : chaotic productive
-status      : online
+Designation     : THE DEV BOY
 
-warning:
-approaches production without supervision
+Classification  : Software Engineer
+
+Status          : Online
+
+Location        : Unknown
+
+Mission         : Build Things
+
+Signal Strength : Stable
 ```
 
 ---
 
-## powers
+# RESEARCH INTERESTS
+
+```txt
+Artificial Intelligence
+
+Distributed Systems
+
+Cybersecurity
+
+Autonomous Agents
+
+Simulation Engineering
+
+High Performance Computing
+
+Quantum Computing
+
+Human Computer Interaction
+
+Space Systems
+
+Advanced Software Architecture
+```
+
+---
+
+# TECHNOLOGY STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,rust,nodejs,react,nextjs,django,mongodb,mysql,postgres,docker,kubernetes,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,go,rust,kotlin,swift,bash" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,redux,vite" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,dotnet" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,githubactions" />
 
 </div>
 
 ---
 
-## psychological evaluation
+# ACTIVE OPERATIONS
 
 ```txt
-confidence      ██████████████
+[█████████████████░░░]
 
-knowledge       ██████████░░░░
+Building Systems
 
-sleep           ██░░░░░░░░░░░░
+Training Models
 
-coffee          ██████████████
+Breaking Assumptions
 
-sanity          ███░░░░░░░░░░░
+Automating Workflows
+
+Learning New Things
+
+Creating More Problems
 ```
 
 ---
 
-## production deployment protocol
+# COMPUTATIONAL STATUS
 
-```javascript
-if (worksLocally) {
-    deploy();
-}
+```python
+while universe.exists():
 
-if (!worksInProduction) {
-    panic();
-    google();
-    fix();
-}
+    build()
+
+    learn()
+
+    experiment()
+
+    improve()
 ```
 
 ---
 
-## github operations center
+# SYSTEM METRICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -92,35 +143,62 @@ if (!worksInProduction) {
 
 ---
 
-## official achievements
+# KNOWN ACHIEVEMENTS
 
 ```txt
-✓ survived javascript
+Successfully Deployed Production Code
 
-✓ survived npm
+Survived JavaScript Ecosystem Updates
 
-✓ survived production
+Won Arguments Against Stack Traces
 
-✓ survived merge conflicts
+Defeated Several Merge Conflicts
 
-✓ survived reading stack traces
+Accumulated Unreasonable Browser Tabs
+
+Read Documentation (Rare Event)
 ```
 
 ---
 
-## company statement
+# EXPERIMENTAL TERMINAL
+
+```bash
+$ initialize
+
+loading modules...
+
+AI
+SYSTEMS
+SECURITY
+COMPUTING
+AUTOMATION
+
+ready
+```
+
+---
+
+# TRANSMISSION LOG
 
 ```txt
-there are no bugs.
+The future is built one commit at a time.
 
-only undocumented features.
+Most things begin as an experiment.
+
+Some experiments become systems.
+
+Some systems change everything.
 ```
 
 ---
 
 <div align="center">
 
+<img width="100%" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"/>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=the-dev-boy&style=for-the-badge"/>
-<img src="https://raw.githubusercontent.com/the-dev-boy/the-dev-boy/main/assets/homelander.gif" width="100%">
 
 </div>
