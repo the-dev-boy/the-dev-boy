@@ -1,149 +1,142 @@
 <div align="center">
 
-# the dev boy
+<img width="100%" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=building+things+that+shouldn't+work.;sometimes+they+do.;full-stack+by+necessity.;shipping+over+talking.;currently+online." />
+# THE DEV BOY
 
-<br>
-
-```txt
-less meetings
-more building
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=professional+bug+creator.;works+on+my+machine.;sudo+make+me+a+sandwich.;deploying+without+fear.;currently+vibing." />
 
 </div>
 
 ---
 
-## about
+```bash
+$ whoami
 
-```txt
-developer
+the-dev-boy
 
-interested in software, systems,
-automation, security, products,
-and whatever catches my attention.
+$ status
 
-mostly building.
-occasionally sleeping.
-```
+online
 
----
+$ objective
 
-## languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,go,rust,php,kotlin,swift,bash" />
-
-</div>
-
----
-
-## frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vue,svelte,tailwind,bootstrap,redux,vite" />
-
-</div>
-
----
-
-## backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,dotnet" />
-
-</div>
-
----
-
-## databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase" />
-
-</div>
-
----
-
-## cloud & devops
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,linux,githubactions" />
-
-</div>
-
----
-
-## tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,npm,yarn,bun" />
-
-</div>
-
----
-
-## currently
-
-```txt
-[██████████████████░░]
-
-building
-learning
-breaking
-fixing
-deploying
+cause problems
+solve problems
+create new problems
 ```
 
 ---
 
-## github
+## inventory
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&hide_border=true&bg_color=00000000" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&hide_border=true&bg_color=00000000" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,rust,nodejs,react,nextjs,django,mongodb,mysql,postgres,docker,kubernetes,linux,git,github,vscode" />
 
 </div>
 
 ---
 
-<div align="center">
+## skill level
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-dev-boy&hide_border=true&bg_color=00000000&area=true" />
+```txt
+coding             ████████████
+debugging          ███████████░
+copy-paste         ████████████
+documentation      ██░░░░░░░░░░
+sleep              █░░░░░░░░░░░
+```
 
-</div>
+---
+
+## daily schedule
+
+```txt
+09:00  wake up
+
+09:05  coffee
+
+09:10  open laptop
+
+09:15  why doesn't this work?
+
+14:00  fixed
+
+14:01  new bug unlocked
+
+02:00  push to production
+
+02:01  regret
+```
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
+## source code of my life
 
 ```javascript
 while (alive) {
-  build();
-  learn();
-  improve();
+    code();
+    breakStuff();
+    googleErrors();
+    pretendToKnow();
 }
 ```
 
 ---
 
+## github nonsense
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=the-dev-boy&style=flat-square" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-dev-boy&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## achievements
+
+```txt
+✓ accidentally fixed a bug
+
+✓ accidentally created another
+
+✓ survived npm install
+
+✓ survived merge conflicts
+
+✓ survived javascript
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+there is no roadmap
+
+only vibes
+```
+
+<img src="https://komarev.com/ghpvc/?username=the-dev-boy&style=for-the-badge"/>
 
 </div>
