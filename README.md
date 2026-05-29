@@ -1,34 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+<img width="100%" src="https://media.tenor.com/search/homelander-gif"/>
 
 # THE DEV BOY
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=professional+bug+creator.;works+on+my+machine.;sudo+make+me+a+sandwich.;deploying+without+fear.;currently+vibing." />
+```txt
+Vought Certified Software Entity
+Threat Level: Unknown
+Production Status: Active
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=the+only+bug+is+everyone+else.;production+is+my+test+environment.;i+can+do+whatever+the+fuck+i+want.;currently+causing+merge+conflicts." />
 
 </div>
 
 ---
 
-```bash
-$ whoami
+## personnel file
 
-the-dev-boy
+```txt
+name        : THE DEV BOY
+occupation  : software shenanigans
+alignment   : chaotic productive
+status      : online
 
-$ status
-
-online
-
-$ objective
-
-cause problems
-solve problems
-create new problems
+warning:
+approaches production without supervision
 ```
 
 ---
 
-## inventory
+## powers
 
 <div align="center">
 
@@ -38,60 +40,45 @@ create new problems
 
 ---
 
-## skill level
+## psychological evaluation
 
 ```txt
-coding             ████████████
-debugging          ███████████░
-copy-paste         ████████████
-documentation      ██░░░░░░░░░░
-sleep              █░░░░░░░░░░░
+confidence      ██████████████
+
+knowledge       ██████████░░░░
+
+sleep           ██░░░░░░░░░░░░
+
+coffee          ██████████████
+
+sanity          ███░░░░░░░░░░░
 ```
 
 ---
 
-## daily schedule
-
-```txt
-09:00  wake up
-
-09:05  coffee
-
-09:10  open laptop
-
-09:15  why doesn't this work?
-
-14:00  fixed
-
-14:01  new bug unlocked
-
-02:00  push to production
-
-02:01  regret
-```
-
----
-
-## source code of my life
+## production deployment protocol
 
 ```javascript
-while (alive) {
-    code();
-    breakStuff();
-    googleErrors();
-    pretendToKnow();
+if (worksLocally) {
+    deploy();
+}
+
+if (!worksInProduction) {
+    panic();
+    google();
+    fix();
 }
 ```
 
 ---
 
-## github nonsense
+## github operations center
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&theme=radical&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&theme=radical&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -105,38 +92,35 @@ while (alive) {
 
 ---
 
-## achievements
+## official achievements
 
 ```txt
-✓ accidentally fixed a bug
+✓ survived javascript
 
-✓ accidentally created another
+✓ survived npm
 
-✓ survived npm install
+✓ survived production
 
 ✓ survived merge conflicts
 
-✓ survived javascript
+✓ survived reading stack traces
 ```
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
-
-</div>
-
----
-
-<div align="center">
+## company statement
 
 ```txt
-there is no roadmap
+there are no bugs.
 
-only vibes
+only undocumented features.
 ```
 
+---
+
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=the-dev-boy&style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/the-dev-boy/the-dev-boy/main/assets/homelander.gif" width="100%">
 
 </div>
