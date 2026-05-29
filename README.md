@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
-
-# THE DEV BOY
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=building+systems.;exploring+unknown+variables.;running+computational+experiments.;simulating+ideas.;currently+online." />
+<img width="100%" src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2400"/>
 
 <br>
 
+# THE DEV BOY
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=building+systems.;running+simulations.;engineering+the+impossible.;computing+the+future.;currently+online." />
+
 ```txt
 Experimental Computing Division
-Status: Active
+Signal Status : Stable
 ```
 
 </div>
@@ -20,43 +20,47 @@ Status: Active
 # SYSTEM OVERVIEW
 
 ```txt
-Designation     : THE DEV BOY
+Designation      : THE DEV BOY
 
-Classification  : Software Engineer
+Classification   : Software Engineer
 
-Status          : Online
+Status           : Active
 
-Location        : Unknown
+Location         : Unknown
 
-Mission         : Build Things
+Mission          : Build Interesting Things
 
-Signal Strength : Stable
+Last Update      : Recently
 ```
 
 ---
 
-# RESEARCH INTERESTS
+# AREAS OF INTEREST
 
 ```txt
 Artificial Intelligence
 
-Distributed Systems
+Machine Learning
 
 Cybersecurity
 
-Autonomous Agents
-
-Simulation Engineering
+Distributed Systems
 
 High Performance Computing
 
-Quantum Computing
+Quantum Information Science
 
-Human Computer Interaction
+Simulation Engineering
 
 Space Systems
 
+Autonomous Agents
+
+Computational Research
+
 Advanced Software Architecture
+
+Human Computer Interaction
 ```
 
 ---
@@ -81,44 +85,68 @@ Advanced Software Architecture
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,githubactions" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,githubactions,git,github" />
 
 </div>
 
 ---
 
-# ACTIVE OPERATIONS
+# CURRENT RESEARCH
 
 ```txt
 [█████████████████░░░]
 
-Building Systems
+Neural Systems
 
-Training Models
+Distributed Architectures
 
-Breaking Assumptions
+Simulation Platforms
 
-Automating Workflows
+Secure Computing
 
-Learning New Things
+Autonomous Workflows
 
-Creating More Problems
+Unknown Projects
 ```
 
 ---
 
-# COMPUTATIONAL STATUS
+# TERMINAL
+
+```bash
+$ mission-status
+
+ACTIVE
+
+$ current-focus
+
+software systems
+
+$ research-mode
+
+enabled
+
+$ clearance-level
+
+restricted
+```
+
+---
+
+# COMPUTATIONAL MODEL
 
 ```python
 while universe.exists():
 
-    build()
-
     learn()
+
+    build()
 
     experiment()
 
     improve()
+
+    repeat()
 ```
 
 ---
@@ -135,6 +163,8 @@ while universe.exists():
 
 ---
 
+# COMPUTATIONAL ACTIVITY
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-dev-boy&theme=react-dark&hide_border=true&area=true"/>
@@ -143,38 +173,38 @@ while universe.exists():
 
 ---
 
-# KNOWN ACHIEVEMENTS
+# INFRASTRUCTURE STATUS
 
 ```txt
-Successfully Deployed Production Code
+CPU Usage        ████████████░░░░
 
-Survived JavaScript Ecosystem Updates
+Memory           ██████████░░░░░░
 
-Won Arguments Against Stack Traces
+Motivation       ████████░░░░░░░░
 
-Defeated Several Merge Conflicts
+Curiosity        ████████████████
 
-Accumulated Unreasonable Browser Tabs
-
-Read Documentation (Rare Event)
+Sleep            ██░░░░░░░░░░░░░░
 ```
 
 ---
 
-# EXPERIMENTAL TERMINAL
+# ACTIVE MODULES
 
-```bash
-$ initialize
-
-loading modules...
-
+```txt
 AI
+
 SYSTEMS
-SECURITY
-COMPUTING
+
 AUTOMATION
 
-ready
+SECURITY
+
+CLOUD
+
+RESEARCH
+
+ENGINEERING
 ```
 
 ---
@@ -182,20 +212,20 @@ ready
 # TRANSMISSION LOG
 
 ```txt
-The future is built one commit at a time.
+The universe runs on mathematics.
 
-Most things begin as an experiment.
+Physics describes it.
 
-Some experiments become systems.
+Computers simulate it.
 
-Some systems change everything.
+Software connects everything.
 ```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"/>
+<img width="100%" src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=2400"/>
 
 <br><br>
 
