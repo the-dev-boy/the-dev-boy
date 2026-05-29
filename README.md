@@ -1,88 +1,138 @@
-<h1 align="center">Iam the dev boy/h1>
+<div align="center">
 
-<h3 align="center">
-software engineer 
-</h3>
+# THE DEV BOY
 
-<p align="center">
-Building systems 
-</p>
+```
+there is no lore.
+there is only code.
+```
 
----
-
-## About Me
-
--just a tech nothing more 
-
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,nodejs,express,react,nextjs,tailwind,mongodb,mysql,git,github,npm,vscode" />
-</p>
+</div>
 
 ---
 
-## Featured Projects
+## SYSTEM.LOG
 
-### Cellulogram
-Premium cinematic casting workflow platform for actors, filmmakers, and regional cinema creators.
+```txt
+alias       : the-dev-boy
+status      : active
+location    : undisclosed
+uptime      : variable
+signal      : stable
 
-### NexCart E-Commerce Platform
-Multi-vendor marketplace architecture with vendor and admin systems.
-
-**Live Demo:**  
-https://nexcart-ecommerce-platform.vercel.app/
-
-### TrackPi Job Portal (Collaborative)
-Recruitment workflows with CRM-style operations.
-
-### VulnBox
-Hands-on cybersecurity platform for real attack simulations.
-
-**Source Code:**  
-https://github.com/alan-j-w/Vulnbox
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alan-joy-wilson">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:alanjoywilson@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alan-j-w&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alan-j-w&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-j-w&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Development Philosophy
-
-```bash
-build → break → fix → optimize → repeat
+last_seen:
+building something.
 ```
 
 ---
 
+## PROFILE
+
+```txt
+A quiet corner of the internet.
+
+No tutorials.
+No motivational speeches.
+No startup guru content.
+
+Just code, experiments,
+late-night ideas,
+and repositories.
+```
+
+---
+
+## STACK
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alan-j-w&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,django,tailwind,mongodb,mysql,git,github,docker,linux,vscode" />
 </p>
+
+---
+
+## CURRENT FREQUENCY
+
+```txt
+████████████████░░░░
+
+searching...
+compiling...
+refactoring...
+```
+
+---
+
+## ACTIVITY
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## ARCHIVE
+
+```txt
+198X
+
+A monochrome monitor glows in a dark room.
+The keyboard clicks.
+The fan hums.
+The cursor blinks.
+
+Nothing dramatic.
+
+Just another night.
+```
+
+---
+
+## ROUTINE
+
+```python
+while True:
+    build()
+    break()
+    fix()
+    push()
+```
+
+---
+
+## NOTES
+
+```txt
+Some projects get finished.
+Some become ideas.
+Some stay in private repositories forever.
+
+That's fine.
+```
+
+---
+
+## TRANSMISSION
+
+```txt
+if it works:
+    leave it alone
+
+if it doesn't:
+    read the error message
+```
+
+---
+
+<div align="center">
+
+```
+NO SIGNAL LOST
+```
+
+<img src="https://komarev.com/ghpvc/?username=the-dev-boy&style=flat-square&color=grey" />
+
+</div>
