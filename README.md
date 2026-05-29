@@ -1,138 +1,149 @@
 <div align="center">
 
-# THE DEV BOY
+# the dev boy
 
-```
-there is no lore.
-there is only code.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=building+things+that+shouldn't+work.;sometimes+they+do.;full-stack+by+necessity.;shipping+over+talking.;currently+online." />
+
+<br>
+
+```txt
+less meetings
+more building
 ```
 
 </div>
 
 ---
 
-## SYSTEM.LOG
+## about
 
 ```txt
-alias       : the-dev-boy
-status      : active
-location    : undisclosed
-uptime      : variable
-signal      : stable
+developer
 
-last_seen:
-building something.
+interested in software, systems,
+automation, security, products,
+and whatever catches my attention.
+
+mostly building.
+occasionally sleeping.
 ```
 
 ---
 
-## PROFILE
+## languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,go,rust,php,kotlin,swift,bash" />
+
+</div>
+
+---
+
+## frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vue,svelte,tailwind,bootstrap,redux,vite" />
+
+</div>
+
+---
+
+## backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,dotnet" />
+
+</div>
+
+---
+
+## databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase" />
+
+</div>
+
+---
+
+## cloud & devops
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,linux,githubactions" />
+
+</div>
+
+---
+
+## tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,npm,yarn,bun" />
+
+</div>
+
+---
+
+## currently
 
 ```txt
-A quiet corner of the internet.
+[██████████████████░░]
 
-No tutorials.
-No motivational speeches.
-No startup guru content.
-
-Just code, experiments,
-late-night ideas,
-and repositories.
+building
+learning
+breaking
+fixing
+deploying
 ```
 
 ---
 
-## STACK
+## github
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,django,tailwind,mongodb,mysql,git,github,docker,linux,vscode" />
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&hide_border=true&bg_color=00000000" />
 
-## CURRENT FREQUENCY
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&hide_border=true&bg_color=00000000" />
 
-```txt
-████████████████░░░░
-
-searching...
-compiling...
-refactoring...
-```
+</div>
 
 ---
 
-## ACTIVITY
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&theme=transparent&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-dev-boy&hide_border=true&bg_color=00000000&area=true" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&theme=transparent&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## ARCHIVE
+<div align="center">
 
-```txt
-198X
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-A monochrome monitor glows in a dark room.
-The keyboard clicks.
-The fan hums.
-The cursor blinks.
-
-Nothing dramatic.
-
-Just another night.
-```
+</div>
 
 ---
 
-## ROUTINE
-
-```python
-while True:
-    build()
-    break()
-    fix()
-    push()
-```
-
----
-
-## NOTES
-
-```txt
-Some projects get finished.
-Some become ideas.
-Some stay in private repositories forever.
-
-That's fine.
-```
-
----
-
-## TRANSMISSION
-
-```txt
-if it works:
-    leave it alone
-
-if it doesn't:
-    read the error message
+```javascript
+while (alive) {
+  build();
+  learn();
+  improve();
+}
 ```
 
 ---
 
 <div align="center">
 
-```
-NO SIGNAL LOST
-```
-
-<img src="https://komarev.com/ghpvc/?username=the-dev-boy&style=flat-square&color=grey" />
+<img src="https://komarev.com/ghpvc/?username=the-dev-boy&style=flat-square" />
 
 </div>
