@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2400"/>
+# THE DEV BOY
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=building+systems.;running+simulations.;engineering+the+future.;computing+the+unknown.;currently+online." />
 
 <br>
 
-# THE DEV BOY
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=building+systems.;running+simulations.;engineering+the+impossible.;computing+the+future.;currently+online." />
+<img width="220" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```txt
 Experimental Computing Division
@@ -26,11 +26,7 @@ Classification   : Software Engineer
 
 Status           : Active
 
-Location         : Unknown
-
 Mission          : Build Interesting Things
-
-Last Update      : Recently
 ```
 
 ---
@@ -39,28 +35,14 @@ Last Update      : Recently
 
 ```txt
 Artificial Intelligence
-
-Machine Learning
-
-Cybersecurity
-
 Distributed Systems
-
+Cybersecurity
 High Performance Computing
-
 Quantum Information Science
-
 Simulation Engineering
-
 Space Systems
-
 Autonomous Agents
-
 Computational Research
-
-Advanced Software Architecture
-
-Human Computer Interaction
 ```
 
 ---
@@ -69,45 +51,29 @@ Human Computer Interaction
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,cs,go,rust,kotlin,swift,bash" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,redux,vite" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,dotnet" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,githubactions,git,github" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,rust,nodejs,react,nextjs,django,mongodb,mysql,postgres,docker,kubernetes,linux,git,github,vscode" />
 
 </div>
 
 ---
 
-# CURRENT RESEARCH
+# SYSTEM METRICS
 
-```txt
-[█████████████████░░░]
+<div align="center">
 
-Neural Systems
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-Distributed Architectures
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-Simulation Platforms
+</div>
 
-Secure Computing
+---
 
-Autonomous Workflows
+<div align="center">
 
-Unknown Projects
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-dev-boy&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
@@ -125,86 +91,6 @@ software systems
 $ research-mode
 
 enabled
-
-$ clearance-level
-
-restricted
-```
-
----
-
-# COMPUTATIONAL MODEL
-
-```python
-while universe.exists():
-
-    learn()
-
-    build()
-
-    experiment()
-
-    improve()
-
-    repeat()
-```
-
----
-
-# SYSTEM METRICS
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=the-dev-boy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-boy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-# COMPUTATIONAL ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-dev-boy&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# INFRASTRUCTURE STATUS
-
-```txt
-CPU Usage        ████████████░░░░
-
-Memory           ██████████░░░░░░
-
-Motivation       ████████░░░░░░░░
-
-Curiosity        ████████████████
-
-Sleep            ██░░░░░░░░░░░░░░
-```
-
----
-
-# ACTIVE MODULES
-
-```txt
-AI
-
-SYSTEMS
-
-AUTOMATION
-
-SECURITY
-
-CLOUD
-
-RESEARCH
-
-ENGINEERING
 ```
 
 ---
@@ -213,8 +99,6 @@ ENGINEERING
 
 ```txt
 The universe runs on mathematics.
-
-Physics describes it.
 
 Computers simulate it.
 
@@ -225,9 +109,13 @@ Software connects everything.
 
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=2400"/>
+<img width="120" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg"/>
 
 <br><br>
+
+```txt
+END OF TRANSMISSION
+```
 
 <img src="https://komarev.com/ghpvc/?username=the-dev-boy&style=for-the-badge"/>
 
